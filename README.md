@@ -27,8 +27,3 @@
 - Разделение данных на обучение и тест (`train_test_split`).  
 - Метрики: `accuracy`, `f1_score`, `classification_report`.  
 - Обучение модели через `Trainer` и `TrainingArguments`.  
-
----
-
-## 📂 Структура проекта  
-
